@@ -60,6 +60,12 @@ export const reviews: Array<Review> = [
     title: "Miguel de Maria",
     date: "October 31, 2020",
     text: "SolveStack is a great place to learn from experienced coders who are in the business. Ana and the other teachers, as well as the the other members, are friendly, welcoming, and patient. I found this a great place to learn and be exposed to programming environments and apps I had never have heard of. Highly recommended!"
+  },
+  {
+    key: 4,
+    title: "Blake Jones",
+    date: "February, 28, 2021",
+    text: "I love to code, but I was consistently picking up new coding projects and putting them back down. Feeling overwhelmed by all of the different coding languages, frameworks, and technologies out there, I felt like there was just too much to learn. Solvestack gave me the tools and the community support to go from wanting to build cool software to actually doing it. The staff at Solvestack are competent, knowledgeable, and above all care about your success. Watching experienced developers live code, debug, and answer audience questions is an invaluable experience for anyone looking to start software development. I can’t recommend joining Solvestack enough!"
   }
 ];
 
